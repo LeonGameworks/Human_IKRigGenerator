@@ -18,7 +18,7 @@ IK Rigについては[公式ドキュメント](https://docs.unrealengine.com/5.
 <br>
 
 ## 他プロジェクトへの移行手順
-1. 移行先のプロジェクトで **"Json Blueprint Utilities"** と **"Blueprint File Utilities"** プラグインを有効にします。<br><img src="https://github.com/LeonGameworks/Screenshot/blob/2b179ee744028933960940d554c23aa33a08e85f/Human_IKRigGenerator/Plugin1.png" width="800"><br><img src="https://github.com/LeonGameworks/Screenshot/blob/2b179ee744028933960940d554c23aa33a08e85f/Human_IKRigGenerator/Plugin2.png" width="800">
+1. 移行先のプロジェクトで **"Json Blueprint Utilities"** と **"Blueprint File Utilities"** プラグインを有効にし、エディターを再起動します。<br><img src="https://github.com/LeonGameworks/Screenshot/blob/2b179ee744028933960940d554c23aa33a08e85f/Human_IKRigGenerator/Plugin1.png" width="800"><br><img src="https://github.com/LeonGameworks/Screenshot/blob/2b179ee744028933960940d554c23aa33a08e85f/Human_IKRigGenerator/Plugin2.png" width="800">
 2. EUW_Human_IKRigGenerator を右クリックから **Migrate** を実行します。<br><img src="https://github.com/LeonGameworks/Screenshot/blob/eba28e5189242287c414148a38220ee6bd8d9b72/Human_IKRigGenerator/Migrate.png" width="500">
 3. 移行先の Content フォルダを指定すれば完了です。
 <br>
